@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashSet;
 
-public class FileAnalyzer {
+public class SampleFileAnalyzer {
     public static void main(String[] args) {
         String fileName = "E:\\AAA-YUNUS_BSc\\TY\\TY-SEM-2\\Data-Inn-Internship\\Java-Project-Container\\DataInn_Internship_Tasks\\src\\Week_3_Task_2\\sample.txt";
 
